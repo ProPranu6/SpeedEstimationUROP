@@ -1,5 +1,5 @@
 # SpeedEstimationUROP
- > ![Tux, the Linux mascot](/assets/images/tux.png)
+ > ![Tux, the Linux mascot](/UROPTitlePage.png)
  >
  >
 > ## Our Objective
@@ -24,10 +24,10 @@
 > - As a result, the suggested model can be used as an alternative to existing piecewise neural network models for predicting speeds. The suggested technique eliminates the need to construct optical flow diagrams from a series before forecasting speeds, instead allowing the neural network model to extract the best properties from the sequence without the need for human involvement.
 >
 > ## Our Proposed Model Architecture
-> ![Tux, the Linux mascot](/assets/images/tux.png)
+> ![Tux, the Linux mascot](/UROPModelArchitecture.png)
 >
 > ## Flow Chart Of The Proposed Model Workings
-> ![Tux, the Linux mascot](/assets/images/tux.png)
+> ![Tux, the Linux mascot](UROPProposedModelFlow.png)
 >
 > ## Plausibility of our Idea
 > Theoretically the research idea yields optimal results  because:
@@ -35,7 +35,7 @@
 > - The Proposed model extracts the features from sequence of frames using deep convolutional layers in accordance to reach the goal state, rather than pre-computing it manually like in optical flow procedures which isn’t goal oriented.
 >
 > ## Stats of our Model
-> ![Tux, the Linux mascot](/assets/images/tux.png)
+> ![Tux, the Linux mascot](/UROPStats.png)
 > 
 > The first image is the result of locally trained model. The model due to small sequence length uses the locally trained function to map to the global function as well although it’s not the case hence resulting in a poor prediction. 
 > To increase the model performance it’s important that we capture more of global variation in every sequence we pass as input which means to either increase the input sequence length or sample farly spaced inputs in the initial sequence. 
