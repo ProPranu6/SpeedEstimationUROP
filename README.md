@@ -46,5 +46,5 @@
 > - The proposed CNN LSTM architecture model can be improved using state of the art CNN architecture like VGG-19 
 > - The dataset can be further expanded under diverse environments and driving conditions to avoid the overfitting of the data also adding more dashboard types and angles in which the video footage will be shot can help in generating a more diverse and generalized dataset 
 > - To increase the model performance it’s important that we capture more of global variation in every sequence we pass as input which means to either increase the input sequence length or sample farly spaced inputs in the initial sequence.
-
+> Link to the paper : [InPending Paper](https://drive.google.com/file/d/120K0Dl_pOsL8s4oYANofpMkXvo_T5fXv/view?usp=sharing)
  
