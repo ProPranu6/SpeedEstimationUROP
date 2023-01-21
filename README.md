@@ -9,7 +9,7 @@
 >> ### Convolutional, Long Short-Term Memory, fully connected Deep Neural Networks (published in IEEE Journal)
 >> **Authored By** : 	*T.N. Sainath, O. Vinyals, A. Senior and H. Sak*
 >
->> ###FlowNet: Learning Optical Flow with Convolutional Networks. 
+>> ### FlowNet: Learning Optical Flow with Convolutional Networks. 
 >> **Authored By** : 	*Fischer, Philipp & Dosovitskivy, Alexey & Ilg, Eddy&Hausser, Philip&Hazirbas, Caner&Golkov*
 >
 >> ### FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks.
